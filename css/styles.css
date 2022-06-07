@@ -1,0 +1,30 @@
+.container {
+    max-width: 500px;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p#content {
+    font-size: 30px;
+    font-style: italic;
+}
+
+p#author {
+    font-size: 20px;
+    text-align: right;
+}
+
+#tag {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#newquote {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 5px;
+}
